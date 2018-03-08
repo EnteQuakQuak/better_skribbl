@@ -1,7 +1,7 @@
 # better_skribbl
 
 
-Use with Tampermonkey in Chrome or Safari to get more features in Skribbl.io!
+Use skribbl_enhanced.js with Tampermonkey in Chrome or Safari to get more features in Skribbl.io!
 
 - Save username, language and avatar
 - Auto-search for friends-
